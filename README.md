@@ -9,12 +9,12 @@ It enables users to access multiple AI-powered tools such as content generation,
 
 ## ✨ Key Features
 
-⚙️ Core Functionality
-  🔐 User Authentication — Secure login, signup, and profile management using Clerk
-  💳 Subscription Billing — Premium AI features unlocked through paid subscriptions
-  🧠 AI Tool Integration — Multi-feature AI utilities for users and professionals
-  🗄️ PostgreSQL Database — Hosted via Neon, a modern serverless PostgreSQL solution
-  ⚡ Full Stack PERN Architecture — Combines PostgreSQL, Express, React, and Node for optimal scalability
+  ⚙️ Core Functionality
+    🔐 User Authentication — Secure login, signup, and profile management using Clerk
+    💳 Subscription Billing — Premium AI features unlocked through paid subscriptions
+    🧠 AI Tool Integration — Multi-feature AI utilities for users and professionals
+    🗄️ PostgreSQL Database — Hosted via Neon, a modern serverless PostgreSQL solution
+    ⚡ Full Stack PERN Architecture — Combines PostgreSQL, Express, React, and Node for optimal scalability
 
 ---
 
@@ -44,31 +44,31 @@ It enables users to access multiple AI-powered tools such as content generation,
 
 **🗂️ Project Structure Overview**
 
-Client
+  Client
+  
+    client/
+    │
+    ├── public/              # Static files
+    ├── src/
+    │   ├── assets/          # Images and icons
+    │   ├── components/      # Reusable UI components
+    │   ├── pages/           # Application pages
+    │   ├── App.jsx          # Root app component
+    │   ├── main.jsx         # Entry point
+    │   └── index.css        # Global styles
+    ├── package.json
+    └── vite.config.js
 
-  client/
-  │
-  ├── public/              # Static files
-  ├── src/
-  │   ├── assets/          # Images and icons
-  │   ├── components/      # Reusable UI components
-  │   ├── pages/           # Application pages
-  │   ├── App.jsx          # Root app component
-  │   ├── main.jsx         # Entry point
-  │   └── index.css        # Global styles
-  ├── package.json
-  └── vite.config.js
-
-Server
-
-  server/
-  │
-  ├── configs/             # Configuration files
-  ├── controllers/         # Business logic
-  ├── middlewares/         # Auth and validation middleware
-  ├── routes/              # API route definitions
-  ├── server.js            # Express app entry
-  └── vercel.js            # Serverless deployment config
+  Server
+  
+    server/
+    │
+    ├── configs/             # Configuration files
+    ├── controllers/         # Business logic
+    ├── middlewares/         # Auth and validation middleware
+    ├── routes/              # API route definitions
+    ├── server.js            # Express app entry
+    └── vercel.js            # Serverless deployment config
 
 ---
 
@@ -81,7 +81,7 @@ Server
    
 2. **Install dependencies**
 
-  npm install
+    npm install
   
 3. **Set up environment variables**
    
@@ -101,23 +101,24 @@ Server
   cd client
   npm start
 
-  ---
+---
 
 **🌍 Deployment**
 
-  Frontend: Vercel
-  Backend: Vercel
-  Database: Neon PostgreSQL
+  * Frontend: Vercel
+  * Backend: Vercel
+  * Database: Neon PostgreSQL
   
-  ---
+---
   
 **📜 License**
 
   This project is licensed under the MIT License.
 
-  ---
+---
   
 **🙌 Credits**
 
   Developed by Samith Shashika — combining AI + SaaS to empower intelligent productivity apps.
+  
   Built with ❤️ using the PERN Stack.
