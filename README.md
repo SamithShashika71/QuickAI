@@ -93,11 +93,11 @@ It enables users to access multiple AI-powered tools such as content generation,
     
 4. **Run development servers**
 
-    # Backend
-        cd server
-        npm run dev
-  
-    # Frontend
+    Backend
+       cd server
+       npm run dev
+
+    Frontend
         cd client
         npm start
 
