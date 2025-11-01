@@ -1,7 +1,7 @@
 # 🚀 QuickAI — AI SaaS Platform (PERN Stack)
 
 QuickAI is a production-ready full stack AI SaaS application built using the PERN stack (PostgreSQL, Express.js, React.js, and Node.js).
-It enables users to access multiple AI-powered tools such as content generation, resume analysis, and image editing — all integrated under a seamless subscription-based platform.
+It enables users to access multiple AI-powered tools such as content generation, resume analysis, and image editing. All integrated under a seamless subscription-based platform.
 
 🔗 **Live Demo:** https://quick-ai-zone.vercel.app
 
@@ -121,6 +121,6 @@ It enables users to access multiple AI-powered tools such as content generation,
   
 **🙌 Credits**
 
-  Developed by Samith Shashika — combining AI + SaaS to empower intelligent productivity apps.
+  Developed by Samith Shashika, combining AI + SaaS to empower intelligent productivity apps.
   
   Built with ❤️ using the PERN Stack.
