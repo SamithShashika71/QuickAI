@@ -9,12 +9,12 @@ It enables users to access multiple AI-powered tools such as content generation,
 
 ## ✨ Key Features
 
-  ⚙️ Core Functionality
-    🔐 User Authentication — Secure login, signup, and profile management using Clerk
-    💳 Subscription Billing — Premium AI features unlocked through paid subscriptions
-    🧠 AI Tool Integration — Multi-feature AI utilities for users and professionals
-    🗄️ PostgreSQL Database — Hosted via Neon, a modern serverless PostgreSQL solution
-    ⚡ Full Stack PERN Architecture — Combines PostgreSQL, Express, React, and Node for optimal scalability
+    ⚙️ Core Functionality
+      🔐 User Authentication — Secure login, signup, and profile management using Clerk
+      💳 Subscription Billing — Premium AI features unlocked through paid subscriptions
+      🧠 AI Tool Integration — Multi-feature AI utilities for users and professionals
+      🗄️ PostgreSQL Database — Hosted via Neon, a modern serverless PostgreSQL solution
+      ⚡ Full Stack PERN Architecture — Combines PostgreSQL, Express, React, and Node for optimal scalability
 
 ---
 
@@ -33,12 +33,12 @@ It enables users to access multiple AI-powered tools such as content generation,
 
 ## 🧰 **Tech Stack**
 
-**Frontend:** React.js, Tailwind CSS  
-**Backend:** Node.js, Express.js  
-**Database:** PostgreSQL (Neon)  
-**AI Services:** Integrated AI APIs for image & text generation  
-**Authentication:** Clerk  
-**Deployment:** Vercel (Frontend), Render/Neon (Backend & Database)
+  **Frontend:** React.js, Tailwind CSS  
+  **Backend:** Node.js, Express.js  
+  **Database:** PostgreSQL (Neon)  
+  **AI Services:** Integrated AI APIs for image & text generation  
+  **Authentication:** Clerk  
+  **Deployment:** Vercel (Frontend), Render/Neon (Backend & Database)
 
 ---
 
@@ -93,13 +93,13 @@ It enables users to access multiple AI-powered tools such as content generation,
     
 4. **Run development servers**
 
-  # Backend
-  cd server
-  npm run dev
-
-  # Frontend
-  cd client
-  npm start
+    # Backend
+    cd server
+    npm run dev
+  
+    # Frontend
+    cd client
+    npm start
 
 ---
 
