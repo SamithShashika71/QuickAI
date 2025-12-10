@@ -38,7 +38,7 @@ It enables users to access multiple AI-powered tools such as content generation,
   **Database:** PostgreSQL (Neon)  
   **AI Services:** Integrated AI APIs for image & text generation  
   **Authentication:** Clerk  
-  **Deployment:** Vercel (Frontend), Render/Neon (Backend & Database)
+  **Deployment:** Vercel (Frontend + Backend)
 
 ---
 
