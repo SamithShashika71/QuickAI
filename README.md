@@ -76,7 +76,7 @@ It enables users to access multiple AI-powered tools such as content generation,
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/SamithShashika71/QuickAI
+   git clone https://github.com/samith-shashika/QuickAI
    cd QuickAI
    
 2. **Install dependencies**
